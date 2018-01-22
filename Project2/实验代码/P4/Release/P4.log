@@ -1,0 +1,11 @@
+﻿  P4.cpp
+d:\vs2017\p4\p4\Random.hpp(31): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+P4.cpp(14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Plane.cpp
+  Runway.cpp
+Runway.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+Runway.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 127 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  P4.vcxproj -> D:\vs2017\P4\Release\P4.exe

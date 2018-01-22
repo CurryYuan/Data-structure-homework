@@ -1,0 +1,5 @@
+﻿  ConsoleApplication60.cpp
+d:\vs2017\consoleapplication60\consoleapplication60\runway.hpp(22): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs2017\consoleapplication60\consoleapplication60\runway.hpp(37): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs2017\consoleapplication60\consoleapplication60\random.hpp(36): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication60.vcxproj -> D:\vs2017\ConsoleApplication60\Debug\ConsoleApplication60.exe

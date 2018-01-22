@@ -1,0 +1,9 @@
+﻿  Runway.cpp
+Runway.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+Runway.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 126 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  P2.vcxproj -> D:\vs2017\P2\Release\P2.exe

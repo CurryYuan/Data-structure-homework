@@ -1,0 +1,4 @@
+﻿  P6.cpp
+d:\vs2017\p6\p6\random.hpp(59): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\vs2017\p6\p6\p6.cpp(14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  P6.vcxproj -> D:\vs2017\P6\Debug\P6.exe

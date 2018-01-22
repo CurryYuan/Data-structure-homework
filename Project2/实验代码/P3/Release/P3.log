@@ -1,0 +1,11 @@
+﻿  P3.cpp
+d:\vs2017\p3\p3\Random.hpp(31): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+P3.cpp(14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Plane.cpp
+  Runway.cpp
+Runway.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+Runway.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  P3.vcxproj -> D:\vs2017\P3\Release\P3.exe
